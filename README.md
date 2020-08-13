@@ -1,2 +1,2 @@
-# api jsonplaceholder
- axios
+# jsonplaceholder
+ api axios get
